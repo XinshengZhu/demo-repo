@@ -1,2 +1,2 @@
 This is my first Git and GitHub demo.
-Conflict 2
+ask your question in IRC.
