@@ -1,1 +1,2 @@
 This is my first Git and GitHub demo.
+Simulate a Github Conflict.
